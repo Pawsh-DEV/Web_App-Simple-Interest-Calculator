@@ -14,7 +14,7 @@ h1
 .maindiv
 {
     background-color: #ffffff;
-    color: #;
+    color: #00000;
     width: 500px;
     padding: 20px;
     border-radius: 25px;
@@ -22,10 +22,7 @@ h1
     margin-right: auto;
 }
 
-/* #result
-{black
-    display: none;
-} */
+
 
 .contents
 {
